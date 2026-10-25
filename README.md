@@ -33,75 +33,34 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global digital painting and art tools market is estimated at approximately $3.2B to $4.5B and is projected to expand at a 9–10% CAGR over the next decade. The sector exhibits a moderately concentrated, barbell structure—high-end commercial pipelines and enterprise revenues are concentrated among established players like Adobe, while independent creators and freelance workflows remain highly fragmented across specialized tablet-first apps, lifetime license tools, and robust open-source alternatives.
 
 
 
 ## SaaS/Hosted Platforms
 
-- **[Adobe Fresco](https://www.adobe.com/products/fresco.html)**  
-
-  Adobe’s drawing and painting app optimized for stylus and touch, featuring live brushes that simulate watercolor and oil, with strong integration into Creative Cloud.
-
-
-
-- **[Procreate](https://procreate.com/)**  
-
-  Industry-favorite digital illustration app for iPad, known for its responsive brushes, powerful layer system, and artist-friendly workflow.
-
-
-
-- **[Clip Studio Paint](https://www.clipstudio.net/)**  
-
-  Popular application for illustration, comics, and manga with excellent pen tools, vector support, 3D references, and animation features.
-
-
-
-- **[Sketchbook](https://www.sketchbook.com/)**  
-
-  User-friendly drawing and painting app (now under Sketchbook by Software Innovation Lab) with a clean interface and solid brush engine, available on multiple platforms.
-
-
-
-- **[Tayasui Sketches](https://tayasui.com/sketches/)**  
-
-  Elegant and intuitive sketching app focused on natural drawing experience, popular on mobile and tablet devices.
-
-
-
-- **[MediBang Paint](https://medibangpaint.com/)**  
-
-  Free (with optional cloud features) multi-platform painting and comic creation tool with extensive brushes, materials, and collaboration features.
-
-
-
-- **[ArtRage](https://www.artrage.com/)**  
-
-  Digital painting software that emphasizes realistic natural media simulation (oils, watercolors, etc.) with a tactile feel.
-
-
-
-- **[Corel Painter](https://www.painterartist.com/)**  
-
-  Professional digital painting application renowned for its highly realistic brushes and natural media emulation.
-
-
-
-- **[Concepts](https://concepts.app/)**  
-
-  Infinite canvas sketching and design app favored by industrial designers and concept artists for flexible vector-raster hybrid workflows.
-
-
-
-- **[Affinity Designer / Affinity Photo](https://affinity.serif.com/)**  
-
-  Professional creative apps that include strong illustration and painting capabilities as part of a one-time purchase suite.
+| Platform / Company | Company Size (Valuation / Revenue) | Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Fresco](https://www.adobe.com/products/fresco.html)** (Adobe Inc.) | **~$100B–$115B Market Cap** ($21.5B+ annual revenue) | **$0.00** (Core app 100% free; optional cloud storage/extra fonts from $9.99/mo) | **Free forever with full toolset**; unlimited layers (hardware bound), full brush engine (Live watercolor/oil brushes), export tools without watermarks; 2 GB base cloud storage included | Adobe’s drawing and painting app optimized for stylus and touch, featuring live brushes that simulate watercolor and oil, with seamless integration into Creative Cloud. |
+| **[Affinity Designer & Photo](https://affinity.serif.com/)** (Canva / Serif) | **~$35B–$42B Valuation** ($3.5B+ ARR; acquired for ~$380M) | **$0.00** (Full desktop & tablet software 100% free; optional Canva Pro AI add-on from $12.99/mo or $119.99/yr) | **Free forever with full toolset**; requires free Canva login; unrestricted vector and raster illustration tools, zero export/save restrictions, no watermarks, full layer management | Professional creative suite offering vector illustration and high-end photo painting capabilities without subscription paywalls. |
+| **[Corel Painter](https://www.painterartist.com/)** (Alludo / KKR) | **~$1B+ Valuation** (Acquired by KKR for >$1B; part of Alludo portfolio) | **$19.99/mo** (or $199.00 billed annually; $429.00 one-time perpetual license) | **15-day free trial**; provides 100% unrestricted access to all brushes, textures, blending layers, and export tools without credit card requirement; expires after 15 days | Professional digital painting software renowned for its industry-standard realistic brushes, paper textures, and natural media emulation. |
+| **[Clip Studio Paint](https://www.clipstudio.net/)** (Celsys, Inc.) | **~$340M Market Cap** (TYO: 3663; ~¥9.2B / $60M annual revenue) | **$4.89/mo** (Single device PRO plan; $28.90/yr annual plan; $54.00 one-time perpetual desktop license) | **30-day free trial** (up to 3 months free on specific mobile/tablet sign-ups; 30 free hours on smartphones); trial includes full feature access, but canvas saving and exporting are disabled once trial expires unless subscribed | Industry-standard application for illustration, comic creation, webtoons, and manga with specialized pen tools, vector line art, and 3D reference models. |
+| **[Procreate](https://procreate.com/)** (Savage Interactive) | **~$30M+ Annual Revenue** (Bootstrapped, privately held, estimated valuation $150M–$250M) | **$12.99 one-time** (iPad; $5.99 one-time for Procreate Pocket on iPhone) | **No free tier or trial**; upfront purchase required on App Store, granting lifetime access to complete brush libraries, 3D painting, and animation tools with zero in-app purchases | Industry-favorite digital illustration app for iPad, celebrated for its hyper-responsive brush engine, clean UI, and artist-friendly workflow. |
+| **[Concepts](https://concepts.app/)** (TopHatch) | **~$5M–$10M Valuation** (Privately held, ~$1.1M seed funding) | **$4.99/mo** (or $29.99/yr Everything subscription; $39.99 one-time Essentials unlock) | **Free forever plan limited to 5 layers**; includes infinite canvas, standard brush set, and basic color wheel, but locks advanced transforms, CAD/SVG/PSD/PDF export, and custom brush creation | Infinite canvas sketching and design app favored by architects and concept artists for flexible vector-raster hybrid workflows. |
+| **[MediBang Paint](https://medibangpaint.com/)** (MediBang Inc.) | **~$5M–$10M Valuation** (Privately held, ~$5.5M total funding raised) | **~$2.00/mo** (~300 JPY/mo for MediBang Premium 20GB tier, up to ~$32/mo for 1.5TB) | **Free forever plan limited to 3 GB cloud storage**, maximum 3 team collaboration slots, 3 version histories, and supported by in-app display ads | Free-to-use cross-platform painting and comic creation tool with extensive pre-made screentones, brushes, and cloud sync features. |
+| **[Sketchbook](https://www.sketchbook.com/)** (Sketchbook, Inc.) | **~$3M–$8M Valuation** (Privately held, spun out from Autodesk in 2021) | **$19.99 one-time** (Desktop Sketchbook Pro on Windows/Mac; $2.99 one-time mobile Premium Bundle) | **Free forever on mobile with limited toolset** (standard brushes only; locks layer masks/grouping, custom palettes, custom brushes, and canvas resizing); desktop app requires upfront purchase with no perpetual free tier | Intuitive, clutter-free drawing and painting app with a smooth brush engine, tailored for rapid concept sketches and digital illustration. |
+| **[ArtRage](https://www.artrage.com/)** (Ambient Design) | **~$2M–$5M Valuation** (Privately held indie micro-ISV) | **$79.00 one-time** (ArtRage Vitae desktop; $29.90 for ArtRage Lite; $4.99 mobile app) | **Unlimited duration demo with disabled save/export**; full access to all natural media oil/watercolor tools and canvas textures, but file saving, exporting, and script recording are completely locked | Digital painting software that emphasizes tactile natural media simulation, accurately emulating oil thickness, wet blending, and canvas textures. |
+| **[Tayasui Sketches](https://tayasui.com/sketches/)** (Tayasui) | **~$1M–$3M Valuation** (Privately held boutique indie studio) | **$5.99 one-time** (Pro In-App Purchase unlock; optional $1.99/mo subscription) | **Free forever plan limited to basic brushes & layers**; locks wet watercolor brush, acrylics, layer blending/unlimited layers, cloud sync, and PSD export | Minimalist and expressive sketching application focused on natural tactile drawing and clean interface design on tablets and mobile devices. |
 
 
 

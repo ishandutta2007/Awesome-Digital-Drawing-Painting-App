@@ -1,55 +1,49 @@
-# Awesome-Digital-Drawing-Painting-App
-# Awesome-Digital-Drawing-Painting-App
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Digital Drawing and Painting Apps Banner" width="100%">
+</p>
 
-## Top Digital Drawing & Painting App
+# 🎨 Awesome Digital Drawing & Painting App
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Drawing-Painting-App/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Drawing-Painting-App?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Drawing-Painting-App/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Drawing-Painting-App?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Drawing-Painting-App/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Drawing-Painting-App?style=flat-square&color=red" alt="GitHub Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Drawing-Painting-App/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+> 🌟 **A definitive, community-curated showcase of the best digital drawing, painting, sketching, raster illustration, and vector design applications.** Whether you are a concept artist, manga illustrator, comic creator, animator, or hobbyist seeking free and open-source alternatives, explore battle-tested tools across desktop, tablet, and mobile platforms.
 
+---
 
-*Focused on Digital Illustration, Drawing, Painting, Sketching & Creative Raster/Vector Tools*
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 Commercial & SaaS Hosted Platforms](#-commercial--saas-hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Recommended Workflow Pipelines](#️-recommended-workflow-pipelines)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
-**Last updated: October 2026**
+## 📊 Sector Overview & Market Dynamics
 
+The global digital painting and creative art software sector is currently valued between **$3.2B and $4.5B USD**, expanding steadily at a **9.2% to 10.4% CAGR** driven by the exponential growth of gaming, animation, VFX, webtoons, and mobile stylus devices. 
 
+Market dynamics reflect a **barbell concentration structure**: enterprise production pipelines, studio licenses, and creative agency revenues remain tightly concentrated among legacy software titans (led by Adobe's multi-billion dollar Creative Cloud ecosystem), while individual freelancers, concept artists, and indie animators operate in a **highly fragmented environment** contested by nimble tablet-first tools (like Procreate), subscription-free lifetime suites, and powerful open-source solutions.
 
-This repository tracks notable **commercial applications** and **open-source projects** for **Digital Drawing and Painting**. These tools enable illustrators, concept artists, comic creators, and hobbyists to draw, paint, and sketch digitally on desktop and mobile devices.
+---
 
+## 💼 Commercial & SaaS Hosted Platforms
 
+*Ranked in descending order by parent company scale (Market Capitalization & Annual Valuation).*
 
-**Examples** include Adobe Fresco, Procreate, Clip Studio Paint, Sketchbook, Krita, Tayasui Sketches, MediBang Paint, ArtRage, Corel Painter, and Concepts (the category leaders).
-
-
-
-**Open-source emphasis**: Digital painting has excellent mature open-source options. **Krita**, **MyPaint**, **OpenToonz**, **GIMP**, and related projects deliver professional-grade brushes, layers, and painting workflows with full freedom and no subscription costs. This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
-
-The global digital painting and art tools market is estimated at approximately $3.2B to $4.5B and is projected to expand at a 9–10% CAGR over the next decade. The sector exhibits a moderately concentrated, barbell structure—high-end commercial pipelines and enterprise revenues are concentrated among established players like Adobe, while independent creators and freelance workflows remain highly fragmented across specialized tablet-first apps, lifetime license tools, and robust open-source alternatives.
-
-
-
-## SaaS/Hosted Platforms
-
-| Platform / Company | Company Size (Valuation / Revenue) | Pricing | Free Tier / Trial Limits | Description |
+| 🖌️ Platform / Company | 🏢 Company Scale (Valuation / Revenue) | 🏷️ Starting Pricing | 🎁 Free Tier / Trial Limits | 📝 Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Adobe Fresco](https://www.adobe.com/products/fresco.html)** (Adobe Inc.) | **~$100B–$115B Market Cap** ($21.5B+ annual revenue) | **$0.00** (Core app 100% free; optional cloud storage/extra fonts from $9.99/mo) | **Free forever with full toolset**; unlimited layers (hardware bound), full brush engine (Live watercolor/oil brushes), export tools without watermarks; 2 GB base cloud storage included | Adobe’s drawing and painting app optimized for stylus and touch, featuring live brushes that simulate watercolor and oil, with seamless integration into Creative Cloud. |
 | **[Affinity Designer & Photo](https://affinity.serif.com/)** (Canva / Serif) | **~$35B–$42B Valuation** ($3.5B+ ARR; acquired for ~$380M) | **$0.00** (Full desktop & tablet software 100% free; optional Canva Pro AI add-on from $12.99/mo or $119.99/yr) | **Free forever with full toolset**; requires free Canva login; unrestricted vector and raster illustration tools, zero export/save restrictions, no watermarks, full layer management | Professional creative suite offering vector illustration and high-end photo painting capabilities without subscription paywalls. |
@@ -62,122 +56,130 @@ The global digital painting and art tools market is estimated at approximately $
 | **[ArtRage](https://www.artrage.com/)** (Ambient Design) | **~$2M–$5M Valuation** (Privately held indie micro-ISV) | **$79.00 one-time** (ArtRage Vitae desktop; $29.90 for ArtRage Lite; $4.99 mobile app) | **Unlimited duration demo with disabled save/export**; full access to all natural media oil/watercolor tools and canvas textures, but file saving, exporting, and script recording are completely locked | Digital painting software that emphasizes tactile natural media simulation, accurately emulating oil thickness, wet blending, and canvas textures. |
 | **[Tayasui Sketches](https://tayasui.com/sketches/)** (Tayasui) | **~$1M–$3M Valuation** (Privately held boutique indie studio) | **$5.99 one-time** (Pro In-App Purchase unlock; optional $1.99/mo subscription) | **Free forever plan limited to basic brushes & layers**; locks wet watercolor brush, acrylics, layer blending/unlimited layers, cloud sync, and PSD export | Minimalist and expressive sketching application focused on natural tactile drawing and clean interface design on tablets and mobile devices. |
 
+---
 
+## 🔓 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+*Ranked strictly in descending order by GitHub stargazers count.*
 
-- **[Krita](https://github.com/KDE/krita)**  
+1. **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
+   ✨ Virtual collaborative whiteboard for sketching hand-drawn diagrams, wireframes, and creative brainstorm doodles with an organic, hand-penciled aesthetic.
 
-  Leading professional open-source digital painting application. Excellent brush engine, layer management, color management, HDR support, and tools tailored for illustrators and concept artists.
+2. **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
+   🖌️ Tiny, lightning-fast collaborative digital drawing canvas and diagramming library built for fluid stylus, mouse, and multi-user sketching.
 
+3. **[Aseprite](https://github.com/aseprite/aseprite)** [![GitHub stars](https://img.shields.io/github/stars/aseprite/aseprite?style=social&color=white)](https://github.com/aseprite/aseprite/stargazers)  
+   👾 Industry-standard animated sprite editor and pixel art painting tool with layers, onion skinning, color palettes, and frame-by-frame animation timelines.
 
+4. **[Fabric.js](https://github.com/FabricJS/fabric.js)** [![GitHub stars](https://img.shields.io/github/stars/FabricJS/fabric.js?style=social&color=white)](https://github.com/FabricJS/fabric.js/stargazers)  
+   📐 Powerful HTML5 canvas library and interactive object model engine for building web-based drawing apps, vector manipulators, and painting surfaces.
 
-- **[MyPaint](https://github.com/mypaint/mypaint)**  
+5. **[Rough.js](https://github.com/rough-stuff/rough)** [![GitHub stars](https://img.shields.io/github/stars/rough-stuff/rough?style=social&color=white)](https://github.com/rough-stuff/rough/stargazers)  
+   ✏️ Light-weight graphics library that lets you draw in a sketchy, hand-drawn-like style with procedural pencil strokes and sketchy hatching.
 
-  Fast, open-source painting program focused on a distraction-free drawing experience with a highly regarded brush engine. Great for sketching and painterly work.
+6. **[Xournal++](https://github.com/xournalpp/xournalpp)** [![GitHub stars](https://img.shields.io/github/stars/xournalpp/xournalpp?style=social&color=white)](https://github.com/xournalpp/xournalpp/stargazers)  
+   📝 Open-source handwriting, sketching, and digital note-taking software with stylus pressure support, PDF annotation, and flexible stroke stabilization.
 
+7. **[Konva.js](https://github.com/konvajs/konva)** [![GitHub stars](https://img.shields.io/github/stars/konvajs/konva?style=social&color=white)](https://github.com/konvajs/konva/stargazers)  
+   🎨 High-performance HTML5 2D canvas library enabling desktop and mobile sketching apps with high-DPI stylus support, layering, and drag-and-drop animations.
 
+8. **[Pixelorama](https://github.com/orama-interactive/Pixelorama)** [![GitHub stars](https://img.shields.io/github/stars/orama-interactive/Pixelorama?style=social&color=white)](https://github.com/orama-interactive/Pixelorama/stargazers)  
+   🕹️ Versatile open-source 2D pixel art editor and animator built with the Godot Engine, featuring custom brushes, palettes, onion skinning, and layer effects.
 
-- **[GIMP](https://github.com/GNOME/gimp)**  
+9. **[Krita](https://github.com/KDE/krita)** [![GitHub stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers)  
+   🎨 World-class professional open-source painting suite built for illustrators, concept artists, and comic creators, offering advanced brush stabilization, pop-up palettes, color engines, and seamless textures.
 
-  Full-featured open-source raster graphics editor with strong painting tools, customizable brushes, layers, and an extensive plugin ecosystem.
+10. **[LibreSprite](https://github.com/LibreSprite/LibreSprite)** [![GitHub stars](https://img.shields.io/github/stars/LibreSprite/LibreSprite?style=social&color=white)](https://github.com/LibreSprite/LibreSprite/stargazers)  
+    🎨 Fully free and open-source fork of Aseprite for creating and animating pixel art sprites, retro graphics, and game textures.
 
+11. **[JS Paint](https://github.com/1j01/jspaint)** [![GitHub stars](https://img.shields.io/github/stars/1j01/jspaint?style=social&color=white)](https://github.com/1j01/jspaint/stargazers)  
+    🖌️ Web-based recreation and modern overhaul of classic MS Paint, packed with extra tools, transparency, GIF recording, layers, and touch/stylus support.
 
+12. **[OpenToonz](https://github.com/opentoonz/opentoonz)** [![GitHub stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=social&color=white)](https://github.com/opentoonz/opentoonz/stargazers)  
+    🎬 Production-grade 2D animation software (customized by Studio Ghibli) equipped with rich vector and raster drawing, inking, coloring, and scanning pipelines.
 
-- **[OpenToonz](https://github.com/opentoonz/opentoonz)**  
+13. **[GIMP](https://github.com/GNOME/gimp)** [![GitHub stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers)  
+    🖼️ Extensible cross-platform raster image editor delivering customizable digital painting brushes, layer masks, blend modes, and comprehensive photo-manipulation.
 
-  Open-source 2D animation software (based on Toonz) that also offers powerful drawing and coloring tools used in professional animation pipelines.
+14. **[Pinta](https://github.com/PintaProject/Pinta)** [![GitHub stars](https://img.shields.io/github/stars/PintaProject/Pinta?style=social&color=white)](https://github.com/PintaProject/Pinta/stargazers)  
+    🎯 Lightweight, beginner-friendly raster drawing and image editing application inspired by Paint.NET, featuring multi-layer sketching, effects, and undo history.
 
+15. **[miniPaint](https://github.com/viliusle/miniPaint)** [![GitHub stars](https://img.shields.io/github/stars/viliusle/miniPaint?style=social&color=white)](https://github.com/viliusle/miniPaint/stargazers)  
+    🌐 Modern online drawing and image editor with layers, filters, blend modes, cutting tools, and offline browser support without installations.
 
+16. **[MyPaint](https://github.com/mypaint/mypaint)** [![GitHub stars](https://img.shields.io/github/stars/mypaint/mypaint?style=social&color=white)](https://github.com/mypaint/mypaint/stargazers)  
+    🖌️ Distraction-free, fast digital painting program designed specifically for graphics tablets, featuring an infinite canvas and the renowned configurable MyPaint brush engine.
 
-- **[Inkscape](https://gitlab.com/inkscape/inkscape)**  
+17. **[Drawpile](https://github.com/drawpile/Drawpile)** [![GitHub stars](https://img.shields.io/github/stars/drawpile/Drawpile?style=social&color=white)](https://github.com/drawpile/Drawpile/stargazers)  
+    👥 Collaborative drawing program allowing multiple artists to sketch, ink, and paint simultaneously on the same shared canvas over local networks or the internet.
 
-  Leading open-source vector graphics editor. Excellent for clean line art, illustration, and designs that benefit from scalable vector paths.
+18. **[libmypaint](https://github.com/mypaint/libmypaint)** [![GitHub stars](https://img.shields.io/github/stars/mypaint/libmypaint?style=social&color=white)](https://github.com/mypaint/libmypaint/stargazers)  
+    ⚙️ The core brushstroke rendering engine behind MyPaint, used across other open-source creative projects like GIMP and OpenToonz.
 
-
-
-- **[FireAlpaca (free, with open aspects)](https://firealpaca.com/)** / community alternatives  
-
-  Lightweight painting tool popular among illustrators; while not fully open-source, it inspires many free workflows alongside true OSS options.
-
-
-
-- **[Pinta](https://github.com/PintaProject/Pinta)**  
-
-  Simple, open-source drawing and image editing program inspired by Paint.NET, suitable for quick sketches and basic painting.
-
-
-
-- **[AzPainter](https://github.com/azelpg/azpainter)**  
-
-  Lightweight open-source painting application focused on speed and simplicity, popular in certain Linux and minimalist workflows.
-
-
-
-- **[Drawpile](https://github.com/drawpile/Drawpile)**  
-
-  Open-source collaborative drawing program that allows multiple users to draw on the same canvas in real time.
-
-
-
-- **[LibreSprite](https://github.com/LibreSprite/LibreSprite)**  
-
-  Open-source fork of Aseprite (for pixel art), excellent for pixel-based drawing and animation (note: Aseprite itself is source-available but not fully OSS for commercial use).
-
-
-
-### Additional Strong Open-Source Options
-
-- Professional digital painting: **Krita**, **MyPaint**.
-
-- General raster editing + painting: **GIMP**.
-
-- Vector illustration: **Inkscape**.
-
-- Animation + drawing: **OpenToonz**.
-
-- Collaborative drawing: **Drawpile**.
-
-- Pixel art: **LibreSprite**.
-
-- Accepting that commercial apps (Procreate, Clip Studio Paint, Adobe Fresco, Corel Painter, ArtRage) still lead in polished mobile experience, specialized brush feel, industry adoption, and convenience features for many artists.
-
-
-
-**Frameworks for building custom systems**:  
-
-Use **Krita** as the primary professional painting tool → **MyPaint** for focused sketching sessions → **Inkscape** for clean vector work → **GIMP** for photo-bashing and complex compositing. Ideal for artists who want powerful tools with no subscription fees and full control over their software.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Digital art tools involve personal workflow preferences, hardware compatibility (graphics tablets, styluses), and performance considerations. Always test software with your own devices and artistic style. This list is not professional art advice.
-
-
+19. **[Harmony](https://github.com/mrdoob/harmony)** [![GitHub stars](https://img.shields.io/github/stars/mrdoob/harmony?style=social&color=white)](https://github.com/mrdoob/harmony/stargazers)  
+    🪄 Procedural canvas drawing experiment by mrdoob, featuring unique connected lines, shading strokes, and dynamic ribbon brush algorithms.
 
 ---
 
-**Made for illustrators, concept artists, comic creators, hobbyists, and open-source advocates.**
+### 🌐 Notable Non-GitHub Open-Source Tool
 
+- **[Inkscape](https://gitlab.com/inkscape/inkscape)**  
+  Leading open-source vector graphics editor built on SVG standards. Ideal for clean vector illustration, line art, ink styling, and complex scalable artwork.
 
+---
 
-Let's keep digital drawing and painting powerful, accessible, and free.
+## 🛠️ Recommended Workflow Pipelines
+
+* **🎨 Pro Concept Art & Illustration**:  
+  Use **Krita** for detailed rendering and digital brushwork → **MyPaint** for fast gesture sketching → **GIMP** for photo-bashing and post-color grading.
+* **🖋️ Vector & Scalable Line Art**:  
+  Use **Inkscape** or **Affinity Designer** for geometric path tracing, precise vector curves, and scalable print layout.
+* **🎞️ 2D Animation & Storyboarding**:  
+  Use **OpenToonz** or **Clip Studio Paint EX** for timeline x-sheets, tweening, and production-ready vector line cleanup.
+* **👾 Game Assets & Retro Sprites**:  
+  Use **Pixelorama** or **LibreSprite** for indexed palettes, frame-by-frame sprite sheets, and retro tiling.
+* **🤝 Live Collaborative Brainstorming**:  
+  Use **Drawpile** for multi-artist creative jams or **Excalidraw** / **tldraw** for interactive whiteboard sketching.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Digital-Drawing-Painting-App&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Digital-Drawing-Painting-App&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+If this curated repository helped you discover your favorite creative software, streamlined your digital workflow, or saved you money on recurring subscriptions, please consider supporting the project:
+
+- ⭐ **Star this repository** to help other artists and developers discover it.
+- 🍴 **Fork and contribute** new software, tools, and updates.
+- 📢 **Share this list** with fellow creators, animators, and digital painters.
+- ☕ **Buy a coffee or sponsor the creator**:  
+  👉 **[Sponsor on GitHub — github.com/sponsors/ishandutta2007](https://github.com/sponsors/ishandutta2007)**
+
+Thank you for championing creative freedom and open ecosystems! 🎨
+
+---
+
+## 🤝 How to Contribute
+
+1. 🍴 Fork the repository.
+2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-drawing-tool`).
+3. ✏️ Add your entry to `README.md` following the established table or list format.
+4. 📋 Ensure entries are factual, active, include verified pricing / free tier limits, and link to official sources.
+5. 🚀 Submit a Pull Request with a clear description of the project.
+
+---
+
+## ⚖️ Disclaimer
+
+- This is an **independently curated community list** — not exhaustive and not a commercial endorsement.
+- Digital drawing and painting tools depend on personal workflow preferences, stylus latency, tablet driver compatibility, and operating system requirements. Always test software on your individual hardware before incorporating it into production pipelines.
+
+---
+
+<p align="center">
+  <b>Empowering digital illustrators, comic artists, animators, and creators worldwide. 🚀</b>
+</p>

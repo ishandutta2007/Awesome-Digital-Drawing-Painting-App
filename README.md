@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Digital-Drawing-Painting-App/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Drawing-Painting-App?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Drawing-Painting-App/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Drawing-Painting-App?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Drawing-Painting-App/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Drawing-Painting-App?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Drawing-Painting-App/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Drawing-Painting-App?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Drawing-Painting-App/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -62,61 +62,61 @@ Market dynamics reflect a **barbell concentration structure**: enterprise produc
 
 *Ranked strictly in descending order by GitHub stargazers count.*
 
-1. **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
+1. **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
    ✨ Virtual collaborative whiteboard for sketching hand-drawn diagrams, wireframes, and creative brainstorm doodles with an organic, hand-penciled aesthetic.
 
-2. **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
+2. **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub_Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
    🖌️ Tiny, lightning-fast collaborative digital drawing canvas and diagramming library built for fluid stylus, mouse, and multi-user sketching.
 
-3. **[Aseprite](https://github.com/aseprite/aseprite)** [![GitHub stars](https://img.shields.io/github/stars/aseprite/aseprite?style=social&color=white)](https://github.com/aseprite/aseprite/stargazers)  
+3. **[Aseprite](https://github.com/aseprite/aseprite)** [![GitHub_Stars](https://img.shields.io/github/stars/aseprite/aseprite?style=social&color=white)](https://github.com/aseprite/aseprite/stargazers)  
    👾 Industry-standard animated sprite editor and pixel art painting tool with layers, onion skinning, color palettes, and frame-by-frame animation timelines.
 
-4. **[Fabric.js](https://github.com/FabricJS/fabric.js)** [![GitHub stars](https://img.shields.io/github/stars/FabricJS/fabric.js?style=social&color=white)](https://github.com/FabricJS/fabric.js/stargazers)  
+4. **[Fabric.js](https://github.com/FabricJS/fabric.js)** [![GitHub_Stars](https://img.shields.io/github/stars/FabricJS/fabric.js?style=social&color=white)](https://github.com/FabricJS/fabric.js/stargazers)  
    📐 Powerful HTML5 canvas library and interactive object model engine for building web-based drawing apps, vector manipulators, and painting surfaces.
 
-5. **[Rough.js](https://github.com/rough-stuff/rough)** [![GitHub stars](https://img.shields.io/github/stars/rough-stuff/rough?style=social&color=white)](https://github.com/rough-stuff/rough/stargazers)  
+5. **[Rough.js](https://github.com/rough-stuff/rough)** [![GitHub_Stars](https://img.shields.io/github/stars/rough-stuff/rough?style=social&color=white)](https://github.com/rough-stuff/rough/stargazers)  
    ✏️ Light-weight graphics library that lets you draw in a sketchy, hand-drawn-like style with procedural pencil strokes and sketchy hatching.
 
-6. **[Xournal++](https://github.com/xournalpp/xournalpp)** [![GitHub stars](https://img.shields.io/github/stars/xournalpp/xournalpp?style=social&color=white)](https://github.com/xournalpp/xournalpp/stargazers)  
+6. **[Xournal++](https://github.com/xournalpp/xournalpp)** [![GitHub_Stars](https://img.shields.io/github/stars/xournalpp/xournalpp?style=social&color=white)](https://github.com/xournalpp/xournalpp/stargazers)  
    📝 Open-source handwriting, sketching, and digital note-taking software with stylus pressure support, PDF annotation, and flexible stroke stabilization.
 
-7. **[Konva.js](https://github.com/konvajs/konva)** [![GitHub stars](https://img.shields.io/github/stars/konvajs/konva?style=social&color=white)](https://github.com/konvajs/konva/stargazers)  
+7. **[Konva.js](https://github.com/konvajs/konva)** [![GitHub_Stars](https://img.shields.io/github/stars/konvajs/konva?style=social&color=white)](https://github.com/konvajs/konva/stargazers)  
    🎨 High-performance HTML5 2D canvas library enabling desktop and mobile sketching apps with high-DPI stylus support, layering, and drag-and-drop animations.
 
-8. **[Pixelorama](https://github.com/orama-interactive/Pixelorama)** [![GitHub stars](https://img.shields.io/github/stars/orama-interactive/Pixelorama?style=social&color=white)](https://github.com/orama-interactive/Pixelorama/stargazers)  
+8. **[Pixelorama](https://github.com/orama-interactive/Pixelorama)** [![GitHub_Stars](https://img.shields.io/github/stars/orama-interactive/Pixelorama?style=social&color=white)](https://github.com/orama-interactive/Pixelorama/stargazers)  
    🕹️ Versatile open-source 2D pixel art editor and animator built with the Godot Engine, featuring custom brushes, palettes, onion skinning, and layer effects.
 
-9. **[Krita](https://github.com/KDE/krita)** [![GitHub stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers)  
+9. **[Krita](https://github.com/KDE/krita)** [![GitHub_Stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers)  
    🎨 World-class professional open-source painting suite built for illustrators, concept artists, and comic creators, offering advanced brush stabilization, pop-up palettes, color engines, and seamless textures.
 
-10. **[LibreSprite](https://github.com/LibreSprite/LibreSprite)** [![GitHub stars](https://img.shields.io/github/stars/LibreSprite/LibreSprite?style=social&color=white)](https://github.com/LibreSprite/LibreSprite/stargazers)  
+10. **[LibreSprite](https://github.com/LibreSprite/LibreSprite)** [![GitHub_Stars](https://img.shields.io/github/stars/LibreSprite/LibreSprite?style=social&color=white)](https://github.com/LibreSprite/LibreSprite/stargazers)  
     🎨 Fully free and open-source fork of Aseprite for creating and animating pixel art sprites, retro graphics, and game textures.
 
-11. **[JS Paint](https://github.com/1j01/jspaint)** [![GitHub stars](https://img.shields.io/github/stars/1j01/jspaint?style=social&color=white)](https://github.com/1j01/jspaint/stargazers)  
+11. **[JS Paint](https://github.com/1j01/jspaint)** [![GitHub_Stars](https://img.shields.io/github/stars/1j01/jspaint?style=social&color=white)](https://github.com/1j01/jspaint/stargazers)  
     🖌️ Web-based recreation and modern overhaul of classic MS Paint, packed with extra tools, transparency, GIF recording, layers, and touch/stylus support.
 
-12. **[OpenToonz](https://github.com/opentoonz/opentoonz)** [![GitHub stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=social&color=white)](https://github.com/opentoonz/opentoonz/stargazers)  
+12. **[OpenToonz](https://github.com/opentoonz/opentoonz)** [![GitHub_Stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=social&color=white)](https://github.com/opentoonz/opentoonz/stargazers)  
     🎬 Production-grade 2D animation software (customized by Studio Ghibli) equipped with rich vector and raster drawing, inking, coloring, and scanning pipelines.
 
-13. **[GIMP](https://github.com/GNOME/gimp)** [![GitHub stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers)  
+13. **[GIMP](https://github.com/GNOME/gimp)** [![GitHub_Stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers)  
     🖼️ Extensible cross-platform raster image editor delivering customizable digital painting brushes, layer masks, blend modes, and comprehensive photo-manipulation.
 
-14. **[Pinta](https://github.com/PintaProject/Pinta)** [![GitHub stars](https://img.shields.io/github/stars/PintaProject/Pinta?style=social&color=white)](https://github.com/PintaProject/Pinta/stargazers)  
+14. **[Pinta](https://github.com/PintaProject/Pinta)** [![GitHub_Stars](https://img.shields.io/github/stars/PintaProject/Pinta?style=social&color=white)](https://github.com/PintaProject/Pinta/stargazers)  
     🎯 Lightweight, beginner-friendly raster drawing and image editing application inspired by Paint.NET, featuring multi-layer sketching, effects, and undo history.
 
-15. **[miniPaint](https://github.com/viliusle/miniPaint)** [![GitHub stars](https://img.shields.io/github/stars/viliusle/miniPaint?style=social&color=white)](https://github.com/viliusle/miniPaint/stargazers)  
+15. **[miniPaint](https://github.com/viliusle/miniPaint)** [![GitHub_Stars](https://img.shields.io/github/stars/viliusle/miniPaint?style=social&color=white)](https://github.com/viliusle/miniPaint/stargazers)  
     🌐 Modern online drawing and image editor with layers, filters, blend modes, cutting tools, and offline browser support without installations.
 
-16. **[MyPaint](https://github.com/mypaint/mypaint)** [![GitHub stars](https://img.shields.io/github/stars/mypaint/mypaint?style=social&color=white)](https://github.com/mypaint/mypaint/stargazers)  
+16. **[MyPaint](https://github.com/mypaint/mypaint)** [![GitHub_Stars](https://img.shields.io/github/stars/mypaint/mypaint?style=social&color=white)](https://github.com/mypaint/mypaint/stargazers)  
     🖌️ Distraction-free, fast digital painting program designed specifically for graphics tablets, featuring an infinite canvas and the renowned configurable MyPaint brush engine.
 
-17. **[Drawpile](https://github.com/drawpile/Drawpile)** [![GitHub stars](https://img.shields.io/github/stars/drawpile/Drawpile?style=social&color=white)](https://github.com/drawpile/Drawpile/stargazers)  
+17. **[Drawpile](https://github.com/drawpile/Drawpile)** [![GitHub_Stars](https://img.shields.io/github/stars/drawpile/Drawpile?style=social&color=white)](https://github.com/drawpile/Drawpile/stargazers)  
     👥 Collaborative drawing program allowing multiple artists to sketch, ink, and paint simultaneously on the same shared canvas over local networks or the internet.
 
-18. **[libmypaint](https://github.com/mypaint/libmypaint)** [![GitHub stars](https://img.shields.io/github/stars/mypaint/libmypaint?style=social&color=white)](https://github.com/mypaint/libmypaint/stargazers)  
+18. **[libmypaint](https://github.com/mypaint/libmypaint)** [![GitHub_Stars](https://img.shields.io/github/stars/mypaint/libmypaint?style=social&color=white)](https://github.com/mypaint/libmypaint/stargazers)  
     ⚙️ The core brushstroke rendering engine behind MyPaint, used across other open-source creative projects like GIMP and OpenToonz.
 
-19. **[Harmony](https://github.com/mrdoob/harmony)** [![GitHub stars](https://img.shields.io/github/stars/mrdoob/harmony?style=social&color=white)](https://github.com/mrdoob/harmony/stargazers)  
+19. **[Harmony](https://github.com/mrdoob/harmony)** [![GitHub_Stars](https://img.shields.io/github/stars/mrdoob/harmony?style=social&color=white)](https://github.com/mrdoob/harmony/stargazers)  
     🪄 Procedural canvas drawing experiment by mrdoob, featuring unique connected lines, shading strokes, and dynamic ribbon brush algorithms.
 
 ---
